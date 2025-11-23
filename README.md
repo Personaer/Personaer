@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Gyeonggu's&nbsp;GitHub&height=180&fontColor=000&color=gradient)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/kku1031" width="600" height="120"/>
+  <img src="https://render.gitanimals.org/lines/kku1031" width="200" height="120"/>
 </a>
 
 <br>
